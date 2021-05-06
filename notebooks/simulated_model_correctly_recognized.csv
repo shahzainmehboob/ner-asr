@@ -1,0 +1,125 @@
+,Sample #,ASR Output,Model Output,Lavenstein,Lavenstein Mean,Flag
+0,0,['netherlands'],['netherlands'],[100.0],100.0,True
+1,1,['mace'],['mace'],[100.0],100.0,True
+3,4,['italy'],['italy'],[100.0],100.0,True
+4,5,"['italy', 'germany', 'france']","['italy', 'germany', 'france']","[100.0, 100.0, 100.0]",100.0,True
+5,6,"['subiaco', 'rome']","['subiaco', 'rome']","[100.0, 100.0]",100.0,True
+6,8,['strasburg'],['strasburg'],[100.0],100.0,True
+7,9,['augsburg'],['augsburg'],[100.0],100.0,True
+8,10,"['paris', 'france']","['paris', 'france']","[100.0, 100.0]",100.0,True
+10,12,['rome'],['rome'],[100.0],100.0,True
+11,13,['venice'],['venice'],[100.0],100.0,True
+12,16,['venice'],['venice'],[100.0],100.0,True
+13,19,['italy'],['italy'],[100.0],100.0,True
+14,22,"['rome', 'milan']","['rome', 'milan']","[100.0, 100.0]",100.0,True
+15,24,['italy'],['italy'],[100.0],100.0,True
+17,26,['augsburg'],['augsburg'],[100.0],100.0,True
+19,28,['cologne'],['cologne'],[100.0],100.0,True
+20,30,['england'],['england'],[100.0],100.0,True
+21,32,"['germany', 'italy']","['germany', 'italy']","[100.0, 100.0]",100.0,True
+22,33,"['england', 'london']","['england', 'london']","[100.0, 100.0]",100.0,True
+23,34,['ashland'],['ashland'],[100.0],100.0,True
+24,37,['chiswick'],['chiswick'],[100.0],100.0,True
+25,39,['england'],['england'],[100.0],100.0,True
+26,40,"['great', 'britain']","['great', 'britain']","[100.0, 100.0]",100.0,True
+27,41,"['france', 'germany']","['france', 'germany']","[100.0, 100.0]",100.0,True
+28,42,['italy'],['italy'],[100.0],100.0,True
+29,43,['america'],['america'],[100.0],100.0,True
+30,48,['america'],['america'],[100.0],100.0,True
+32,54,['newgate'],['newgate'],[100.0],100.0,True
+33,56,['london'],['london'],[100.0],100.0,True
+34,60,"['newgate', 'white', 'cross', 'street']","['newgate', 'white', 'cross', 'street']","[100.0, 100.0, 100.0, 100.0]",100.0,True
+35,61,['newgate'],['newgate'],[100.0],100.0,True
+36,62,"['england', 'scotland', 'wales']","['england', 'scotland', 'wales']","[100.0, 100.0, 100.0]",100.0,True
+37,66,['middlesex'],['middlesex'],[100.0],100.0,True
+38,68,"['middlesex', 'great', 'britain']","['middlesex', 'great', 'britain']","[100.0, 100.0, 100.0]",100.0,True
+40,71,['middlesex'],['middlesex'],[100.0],100.0,True
+42,80,['newgate'],['newgate'],[100.0],100.0,True
+43,84,"['1st', 'street']","['1st', 'street']","[100.0, 100.0]",100.0,True
+44,90,"['coldbath', 'fields']","['coldbath', 'fields']","[100.0, 100.0]",100.0,True
+45,91,"['islington', 'london']","['islington', 'london']","[100.0, 100.0]",100.0,True
+46,95,['newgate'],['newgate'],[100.0],100.0,True
+47,96,"['london', 'new', 'gate']","['london', 'new', 'gate']","[100.0, 100.0, 100.0]",100.0,True
+48,97,['marshalsea'],['marshalsea'],[100.0],100.0,True
+49,103,['mexico'],['mexico'],[100.0],100.0,True
+50,104,"['farrington', 'street']","['farrington', 'street']","[100.0, 100.0]",100.0,True
+53,114,"['high', 'street', 'south']","['high', 'street', 'south']","[100.0, 100.0, 100.0]",100.0,True
+54,115,"['palace', 'of', 'whitehall']","['palace', 'of', 'whitehall']","[100.0, 100.0, 100.0]",100.0,True
+56,118,['marshalsea'],['marshalsea'],[100.0],100.0,True
+57,123,['coventry'],['coventry'],[100.0],100.0,True
+58,124,['canterbury'],['canterbury'],[100.0],100.0,True
+59,126,['marshalsea'],['marshalsea'],[100.0],100.0,True
+61,129,"['ludgate', 'giltspur', 'street', 'newgate']","['ludgate', 'giltspur', 'street', 'newgate']","[100.0, 100.0, 100.0, 100.0]",100.0,True
+62,130,"['white', 'cross']","['white', 'cross']","[100.0, 100.0]",100.0,True
+64,134,"['spruce', 'street', 'compton']","['spruce', 'street', 'compton']","[100.0, 100.0, 100.0]",100.0,True
+65,135,"['giltspur', 'street']","['giltspur', 'street']","[100.0, 100.0]",100.0,True
+66,136,"['gilts', 'first', 'street']","['gilts', 'first', 'street']","[100.0, 100.0, 100.0]",100.0,True
+69,140,['newgate'],['newgate'],[100.0],100.0,True
+70,141,['newgate'],['newgate'],[100.0],100.0,True
+74,147,['london'],['london'],[100.0],100.0,True
+75,150,"['red', 'lion', 'white', 'cross', 'street']","['red', 'lion', 'white', 'cross', 'street']","[100.0, 100.0, 100.0, 100.0, 100.0]",100.0,True
+78,154,"['white', 'cross', 'street']","['white', 'cross', 'street']","[100.0, 100.0, 100.0]",100.0,True
+79,156,['newgate'],['newgate'],[100.0],100.0,True
+80,159,"['new', 'gate']","['new', 'gate']","[100.0, 100.0]",100.0,True
+81,162,['newgate'],['newgate'],[100.0],100.0,True
+82,165,['newgate'],['newgate'],[100.0],100.0,True
+83,166,['clerkenwell'],['clerkenwell'],[100.0],100.0,True
+84,168,['newgate'],['newgate'],[100.0],100.0,True
+85,169,['newgate'],['newgate'],[100.0],100.0,True
+86,172,['newgate'],['newgate'],[100.0],100.0,True
+87,175,['slego'],['slego'],[100.0],100.0,True
+89,183,"['old', 'bailey']","['old', 'bailey']","[100.0, 100.0]",100.0,True
+90,184,['newgate'],['newgate'],[100.0],100.0,True
+91,185,['london'],['london'],[100.0],100.0,True
+92,186,['uk'],['uk'],[100.0],100.0,True
+94,193,"['new', 'gate', 'petworth', 'gloucester']","['new', 'gate', 'petworth', 'gloucester']","[100.0, 100.0, 100.0, 100.0]",100.0,True
+95,196,"['gloucester', 'petworth']","['gloucester', 'petworth']","[100.0, 100.0]",100.0,True
+96,197,"['white', 'cross', 'street']","['white', 'cross', 'street']","[100.0, 100.0, 100.0]",100.0,True
+99,205,['newgate'],['newgate'],[100.0],100.0,True
+101,210,['gloucester'],['gloucester'],[100.0],100.0,True
+103,217,['belgium'],['belgium'],[100.0],100.0,True
+104,230,"['united', 'kingdom']","['united', 'kingdom']","[100.0, 100.0]",100.0,True
+106,234,['gildford'],['gildford'],[100.0],100.0,True
+107,235,"['st', 'albans']","['st', 'albans']","[100.0, 100.0]",100.0,True
+108,236,['bristol'],['bristol'],[100.0],100.0,True
+109,240,['bristol'],['bristol'],[100.0],100.0,True
+110,241,"['bury', 'st', 'edmunds']","['bury', 'st', 'edmunds']","[100.0, 100.0, 100.0]",100.0,True
+111,242,['chester'],['chester'],[100.0],100.0,True
+112,243,['ilchester'],['ilchester'],[100.0],100.0,True
+113,246,['newgate'],['newgate'],[100.0],100.0,True
+114,247,['england'],['england'],[100.0],100.0,True
+115,249,['newgate'],['newgate'],[100.0],100.0,True
+116,253,['newgate'],['newgate'],[100.0],100.0,True
+117,256,['london'],['london'],[100.0],100.0,True
+118,257,['newgate'],['newgate'],[100.0],100.0,True
+119,259,['turkey'],['turkey'],[100.0],100.0,True
+120,266,['newgate'],['newgate'],[100.0],100.0,True
+121,267,"['hoxton', 'hackney', 'road']","['hoxton', 'hackney', 'road']","[100.0, 100.0, 100.0]",100.0,True
+123,286,['reading'],['reading'],[100.0],100.0,True
+124,288,['london'],['london'],[100.0],100.0,True
+125,290,"['clerkenwell', 'middlesex']","['clerkenwell', 'middlesex']","[100.0, 100.0]",100.0,True
+126,291,['clerkenwell'],['clerkenwell'],[100.0],100.0,True
+127,294,['england'],['england'],[100.0],100.0,True
+128,298,['marion'],['marion'],[100.0],100.0,True
+129,299,['shropshire'],['shropshire'],[100.0],100.0,True
+130,300,"['suffolk', 'richmond', 'yorkshire']","['suffolk', 'richmond', 'yorkshire']","[100.0, 100.0, 100.0]",100.0,True
+134,305,['newgate'],['newgate'],[100.0],100.0,True
+137,308,['newgate'],['newgate'],[100.0],100.0,True
+138,309,['newgate'],['newgate'],[100.0],100.0,True
+139,316,['middlesex'],['middlesex'],[100.0],100.0,True
+141,320,"['england', 'wales']","['england', 'wales']","[100.0, 100.0]",100.0,True
+142,323,"['berwick', 'southampton', 'south', 'work']","['berwick', 'southampton', 'south', 'work']","[100.0, 100.0, 100.0, 100.0]",100.0,True
+144,328,['london'],['london'],[100.0],100.0,True
+145,332,['england'],['england'],[100.0],100.0,True
+146,335,"['united', 'states']","['united', 'states']","[100.0, 100.0]",100.0,True
+147,336,['pennsylvania'],['pennsylvania'],[100.0],100.0,True
+148,337,['auburn'],['auburn'],[100.0],100.0,True
+149,338,['france'],['france'],[100.0],100.0,True
+150,339,['england'],['england'],[100.0],100.0,True
+151,341,['milbank'],['milbank'],[100.0],100.0,True
+153,354,['london'],['london'],[100.0],100.0,True
+154,358,['newgate'],['newgate'],[100.0],100.0,True
+155,359,['newgate'],['newgate'],[100.0],100.0,True
+156,360,['newgate'],['newgate'],[100.0],100.0,True
+157,361,['london'],['london'],[100.0],100.0,True
+158,372,['newgate'],['newgate'],[100.0],100.0,True

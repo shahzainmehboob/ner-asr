@@ -1,0 +1,1 @@
+14 received less than 11 and more than six

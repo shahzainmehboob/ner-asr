@@ -1,0 +1,1 @@
+totally different structures are modified to perform the same functions

@@ -1,0 +1,18 @@
+,Sample #,ASR Output,Model Output,Lavenstein,Lavenstein Mean,Flag
+43,100,['statehouse'],['statehouse'],[100.0],100.0,False
+46,111,['newgate'],['newgate'],[100.0],100.0,False
+47,113,['marshalsea'],['marshalsea'],[100.0],100.0,False
+55,127,['goering'],['goering'],[100.0],100.0,False
+65,145,"['new', 'gate']","['new', 'gate']","[100.0, 100.0]",100.0,False
+66,146,['newgate'],['newgate'],[100.0],100.0,False
+70,152,"['street', 'poultry']","['street', 'poultry']","[100.0, 100.0]",100.0,False
+82,182,"['corn', 'hill', 'ludgate', 'hill']","['corn', 'hill', 'ludgate', 'hill']","[100.0, 100.0, 100.0, 100.0]",100.0,False
+90,194,"['new', 'gays']","['new', 'gays']","[100.0, 100.0]",100.0,False
+93,200,['nougat'],['nougat'],[100.0],100.0,False
+94,201,"['you', 'gate']","['you', 'gate']","[100.0, 100.0]",100.0,False
+100,231,"['boro', 'comforter']","['boro', 'comforter']","[100.0, 100.0]",100.0,False
+108,244,['chester'],['chester'],[100.0],100.0,False
+112,251,['newgate'],['newgate'],[100.0],100.0,False
+119,268,"['new', 'gate', 'metropolitan']","['new', 'gate', 'metropolitan']","[100.0, 100.0, 100.0]",100.0,False
+135,314,"['metropolitan', 'jails', 'nougat']","['metropolitan', 'jails', 'nougat']","[100.0, 100.0, 100.0]",100.0,False
+149,353,"['new', 'gate']","['new', 'gate']","[100.0, 100.0]",100.0,False
